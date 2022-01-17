@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chad-38
+- 👋 Hi, I’m @chad
 - 👀 I’m interested in Learning more about DevOPS and explore what we can accomplish with automation.
 
 - 🌱 I’m currently learning puppet, ansible, terraform, kubernetes, Docker.
